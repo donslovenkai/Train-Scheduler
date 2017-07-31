@@ -1,0 +1,36 @@
+label{
+  margin-left: 70px;
+}
+
+.form-control{
+  margin-left: 70px;
+}
+
+.jumbotron {
+  background-color: #336699;
+  color: white;
+  margin-top: 50px;
+}
+
+.btn-default {
+  background-color: #336699;
+  color: white;
+  margin-left: 70px;
+  margin-bottom: 70px;
+}
+
+h5.thick {
+  font-weight: bold;
+}
+
+h4 {
+  margin-left: 70px;
+  padding:0px;
+}
+
+.panel-heading {
+  font-size: 22px;
+  text-align: left;
+  margin: 70px;
+  background-color: #6699FF;
+}
